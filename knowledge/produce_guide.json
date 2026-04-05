@@ -1,0 +1,82 @@
+[
+    {
+        "item": "Banana",
+        "category": "Fruit",
+        "shelf_life_counter": "5-7 days",
+        "shelf_life_fridge": "Up to 2 weeks (skin darkens but fruit stays good)",
+        "storage_tips": "Store at room temperature. Separate from other fruits to slow ripening. To speed ripening, place in a paper bag.",
+        "freshness_signs": "Bright yellow with minimal brown spots = peak freshness. Green = unripe. Mostly brown = overripe but great for baking.",
+        "spoilage_signs": "Mushy texture, fermented smell, mold on stem, completely black skin with liquid seeping",
+        "fun_fact": "Bananas are technically berries, while strawberries are not!"
+    },
+    {
+        "item": "Avocado",
+        "category": "Fruit",
+        "shelf_life_counter": "3-5 days when ripe",
+        "shelf_life_fridge": "2-3 days once ripe",
+        "storage_tips": "Ripen at room temperature. Once ripe (yields to gentle pressure), refrigerate. Sprinkle cut avocado with lemon juice to prevent browning.",
+        "freshness_signs": "Dark green to black skin, yields slightly to pressure = ripe. Bright green and hard = unripe.",
+        "spoilage_signs": "Very mushy, dark brown/black flesh throughout, sour or off smell, visible mold",
+        "fun_fact": "Avocados don't ripen on the tree — they only start ripening after being picked!"
+    },
+    {
+        "item": "Lettuce",
+        "category": "Vegetable",
+        "shelf_life_counter": "1-2 days",
+        "shelf_life_fridge": "7-10 days",
+        "storage_tips": "Wrap in paper towels and store in a plastic bag in the crisper drawer. Don't wash until ready to use.",
+        "freshness_signs": "Crisp leaves, vibrant green color, no wilting",
+        "spoilage_signs": "Slimy leaves, brown or black spots, foul smell, excessive wilting",
+        "fun_fact": "Lettuce is a member of the daisy family!"
+    },
+    {
+        "item": "Tomato",
+        "category": "Vegetable",
+        "shelf_life_counter": "5-7 days",
+        "shelf_life_fridge": "Up to 2 weeks (but loses flavor)",
+        "storage_tips": "Store stem-side down at room temperature for best flavor. Only refrigerate if very ripe and you need to slow spoilage.",
+        "freshness_signs": "Firm but yields slightly to pressure, vibrant red color, pleasant smell at stem",
+        "spoilage_signs": "Very soft, wrinkled skin, mold, leaking fluid, off smell",
+        "fun_fact": "Tomatoes are the most popular garden vegetable (technically fruit) in the US!"
+    },
+    {
+        "item": "Strawberry",
+        "category": "Fruit",
+        "shelf_life_counter": "1 day",
+        "shelf_life_fridge": "3-5 days",
+        "storage_tips": "Don't wash until ready to eat. Store in a single layer on paper towels in the fridge. Remove any moldy ones immediately.",
+        "freshness_signs": "Bright red color all over, green leafy caps, firm texture, sweet smell",
+        "spoilage_signs": "White or gray fuzzy mold, mushy spots, dull color, fermented smell",
+        "fun_fact": "Strawberries are the only fruit with seeds on the outside — about 200 per berry!"
+    },
+    {
+        "item": "Apple",
+        "category": "Fruit",
+        "shelf_life_counter": "7 days",
+        "shelf_life_fridge": "4-6 weeks",
+        "storage_tips": "Refrigerate for longest life. Keep away from other produce — apples release ethylene gas that ripens other fruits faster.",
+        "freshness_signs": "Firm when squeezed, smooth skin, no bruises",
+        "spoilage_signs": "Soft spots, wrinkled skin, mealy texture, brown discoloration throughout, mold",
+        "fun_fact": "There are over 7,500 varieties of apples grown worldwide!"
+    },
+    {
+        "item": "Carrot",
+        "category": "Vegetable",
+        "shelf_life_counter": "3-5 days",
+        "shelf_life_fridge": "3-4 weeks",
+        "storage_tips": "Remove green tops before storing (they draw moisture). Store in a plastic bag in the crisper. Can store in water for extra crispness.",
+        "freshness_signs": "Firm, bright orange, smooth surface, no cracks",
+        "spoilage_signs": "Rubbery/bendy texture, slimy surface, white film, dark spots, foul smell",
+        "fun_fact": "Carrots were originally purple! Orange carrots were developed in the Netherlands in the 17th century."
+    },
+    {
+        "item": "Broccoli",
+        "category": "Vegetable",
+        "shelf_life_counter": "1-2 days",
+        "shelf_life_fridge": "5-7 days",
+        "storage_tips": "Store unwashed in a loose plastic bag in the crisper. Don't seal tightly — it needs airflow.",
+        "freshness_signs": "Tight, dark green florets, firm stalks, no yellowing",
+        "spoilage_signs": "Yellow florets, limp stalks, slimy texture, strong unpleasant odor",
+        "fun_fact": "Broccoli contains more protein per calorie than steak!"
+    }
+]

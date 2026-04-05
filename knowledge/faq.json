@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Is it safe to eat produce with a small amount of mold?",
+        "answer": "For firm produce (carrots, bell peppers), you can cut at least 1 inch around and below the mold spot. For soft produce (strawberries, tomatoes, bread), discard the entire item — mold threads spread invisibly through soft foods. When in doubt, throw it out."
+    },
+    {
+        "question": "What is the best way to wash produce?",
+        "answer": "Rinse under cool running water for 20-30 seconds. For firm produce, use a clean produce brush. Don't use soap, detergent, or commercial produce washes — water is sufficient. Dry with a clean cloth or paper towel to remove additional bacteria."
+    },
+    {
+        "question": "Can I freeze fresh produce?",
+        "answer": "Most produce can be frozen! Blanch vegetables (brief boil then ice bath) before freezing to preserve color and nutrients. Fruits can be frozen directly on a baking sheet, then transferred to bags. Frozen produce lasts 8-12 months. Note: lettuce, cucumbers, and other high-water produce don't freeze well."
+    },
+    {
+        "question": "What produces should not be stored together?",
+        "answer": "Keep ethylene-producing fruits (apples, bananas, avocados, peaches, tomatoes) away from ethylene-sensitive produce (leafy greens, broccoli, carrots, cucumbers). Ethylene gas speeds ripening and can cause premature spoilage."
+    },
+    {
+        "question": "How can I tell if eggs are still fresh?",
+        "answer": "The float test: place the egg in a bowl of water. Fresh eggs sink and lay flat. Slightly older (but safe) eggs stand upright. If it floats, discard it. The sell-by date is a guide, but eggs are often good 3-5 weeks past that date if refrigerated."
+    },
+    {
+        "question": "What's the difference between 'best by', 'sell by', and 'use by' dates?",
+        "answer": "'Best by' = quality suggestion, not safety. 'Sell by' = store inventory date, food is usually good for days/weeks after. 'Use by' = the last date recommended for peak quality. Only 'use by' on infant formula is federally regulated. Most food is safe past these dates if properly stored."
+    }
+]
